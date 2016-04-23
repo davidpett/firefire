@@ -4,6 +4,7 @@ module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'firefire',
     environment: environment,
+    firebase: 'https://firefirefire.firebaseio.com/',
     baseURL: '/',
     locationType: 'auto',
     EmberENV: {
